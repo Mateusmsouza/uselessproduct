@@ -1,0 +1,6 @@
+starlette==0.15.0
+uvicorn==0.14.0
+
+# dev dependencies
+pytest===6.2.4
+pylint===2.9.3
